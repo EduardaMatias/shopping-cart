@@ -2,6 +2,8 @@
 
 > Este projeto é uma aplicação que permite adicionar produtos a um carrinho de compras, utilizando a API do Mercado Livre. Além disso, oferece a funcionalidade de listar os produtos disponíveis. Desenvolvido a partir dos videos do canal Manual do Dev.
 
+![Alt Text](public/_.gif)
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
