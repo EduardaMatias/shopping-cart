@@ -11,6 +11,7 @@
 
 .card_image {
   width: 100%;
+  cursor: pointer !important;
 }
 
 .card_infos {

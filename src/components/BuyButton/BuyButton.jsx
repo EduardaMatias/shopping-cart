@@ -1,12 +1,10 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import './BuyButton.css';
 import propTypes from 'prop-types';
-import { toast } from 'react-toastify';
-import AppContext from '../../context/AppContext';
+import { toast } from 'react-toastify'; 
 import 'react-toastify/dist/ReactToastify.css';
 
-function BuyButton({ disabled }) {
-  const { setCartItems, setIsCartVisible } = useContext(AppContext);
+function BuyButton({ disabled, handleClick }) {
 
   const handleBuy = () => {
     toast.success('Compra realizada com sucesso!', {
@@ -19,8 +17,7 @@ function BuyButton({ disabled }) {
       progress: undefined,
       theme: 'light',
     });
-    setCartItems([]);
-    setIsCartVisible(false);
+    handleClick();
   };
 
   return (

@@ -7,16 +7,19 @@ function Provider({ children }) {
   const [loading, setLoading] = useState(true);
   const [cartItems, setCartItems] = useState([]);
   const [isCartVisible, setIsCartVisible] = useState(false);
+  const [openModal, setOpenModal] = useState(false);
 
   const value = {
     products,
     setProducts,
-    loading, 
+    loading,
     setLoading,
     cartItems,
     setCartItems,
     isCartVisible,
-    setIsCartVisible
+    setIsCartVisible,
+    openModal,
+    setOpenModal,
   };
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;
