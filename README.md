@@ -26,7 +26,7 @@ git clone https://github.com/EduardaMatias/shopping-cart.git
 npm install
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando Cart Shopping
 
 Para usar Cart Shopping, siga estas etapas:
 
