@@ -2,7 +2,9 @@
 
 > Este projeto é uma aplicação que permite adicionar produtos a um carrinho de compras, utilizando a API do Mercado Livre. Além disso, oferece a funcionalidade de listar os produtos disponíveis. Desenvolvido a partir dos videos do canal Manual do Dev.
 
-![Alt Text](public/_.gif)
+<img width="960" alt="image" src="https://github.com/EduardaMatias/shopping-cart/assets/85466761/80bd01ca-eed3-4680-bfd6-a699005d2852">
+<img width="960" alt="image" src="https://github.com/EduardaMatias/shopping-cart/assets/85466761/713dc6e5-5f49-44b8-a680-e7288d1bb331">
+<img width="955" alt="image" src="https://github.com/EduardaMatias/shopping-cart/assets/85466761/3c6c6d73-6990-441e-ad7b-6f182e1747c5">
 
 ### Ajustes e melhorias
 
