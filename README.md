@@ -8,7 +8,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Adicionar páginação
 - [ ] Criar um modal com detalhes do produto
-- [ ] Criar favicon e adicioná-lo a página
+- [x] Criar favicon e adicioná-lo a página
 - [x] Adicionar um botão de comprar
 
 ## 💻 Pré-requisitos
