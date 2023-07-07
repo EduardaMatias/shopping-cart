@@ -6,7 +6,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Adicionar páginação
+- [x] Adicionar páginação
 - [ ] Criar um home com os produtos em promoção
 - [ ] Adicionar um botão de comprar
 
