@@ -7,8 +7,9 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Adicionar páginação
-- [ ] Criar um home com os produtos em promoção
-- [ ] Adicionar um botão de comprar
+- [ ] Criar um modal com detalhes do produto
+- [ ] Criar favicon e adicioná-lo a página
+- [x] Adicionar um botão de comprar
 
 ## 💻 Pré-requisitos
 
