@@ -3,6 +3,7 @@ import './Cart.css';
 import CartItem from '../CartItem/CartItem';
 import AppContext from '../../context/AppContext';
 import formatCurrency from '../../utils/formatCurrency';
+import BuyButton from '../BuyButton/BuyButton';
 
 function Cart() {
   const { cartItems, isCartVisible } = useContext(AppContext);
@@ -19,6 +20,7 @@ function Cart() {
         ))}
       </div>
       <div className="cart-resume">{formatCurrency(totalPrice, 'BRL')}</div>
+      <BuyButton disabled={cartItems.length === 0} />
     </section>
   );
 }
