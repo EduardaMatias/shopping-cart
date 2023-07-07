@@ -7,7 +7,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Adicionar páginação
-- [ ] Criar um modal com detalhes do produto
+- [x] Criar um modal com detalhes do produto
 - [x] Criar favicon e adicioná-lo a página
 - [x] Adicionar um botão de comprar
 
