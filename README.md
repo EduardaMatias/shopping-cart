@@ -41,4 +41,6 @@ npm start
 
 Abra `http://localhost:3000/` no navegador.
 
+## ✨ Deploy
+
 [Deploy do projeto](https://shopping-cart-chi-one.vercel.app/)<br>
